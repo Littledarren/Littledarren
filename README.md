@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=littledaarren&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+#### What I Can
+
+programming in c++/golang/python
+
+#### What I Use
+
+archlinux/neovim
+
+#### Mother togue
+
+Chinese/中文
+
+#### More
+
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=littledarren&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 
 <!--
